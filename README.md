@@ -1,2 +1,2 @@
 # git
-project
+project on git commands
